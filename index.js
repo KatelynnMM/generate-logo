@@ -29,7 +29,12 @@ async function generateLogo() {
 
     shape.setColor(userInput.shapeColor);
 
-    const svgContent = `<svg width="300" height="200">${shape.render()}</svg>`;
+    // Include text in the SVG content
+    const svgContent = `<svg width="300" height="200">
+        <text x="150" y="100" fill="${userInput.textColor}" text-anchor="middle" alignment-baseline="middle" font-size="20">${userInput.text}</text>
+        ${shape.render()}
+    </svg>`;
+
     const fileName = "logo.svg";
 
     fs.writeFileSync(fileName, svgContent);
@@ -37,3 +42,4 @@ async function generateLogo() {
 }
 
 generateLogo();
+
