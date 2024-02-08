@@ -11,7 +11,7 @@ I WANT to generate a simple logo for my projects
 SO THAT I don't have to pay a graphic designer
 ```
 
-## Acceptance Criteria
+### Acceptance Criteria
 
 ```md
 GIVEN a command-line application that accepts user input
@@ -29,3 +29,12 @@ AND the output text "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
+
+### Instalation & Usage
+
+```md
+In your local terminal you will need to run 'npm install' to down load Inquirer and Jest.  Once that is complete run 'node index', 
+then follow the prompts answering all the questions an a logo will be generated with the given information.
+```
+
+### Links
