@@ -46,3 +46,5 @@ When checking my commits you'll notice that they are lacking, and one says "larg
 ![Alt text](<examples/logo copy 4.svg>)
 
 https://drive.google.com/file/d/1gfWH6NzcM2fryrD7aewOUZDE0fP5sHYV/view
+
+https://github.com/KatelynnMM/generate-logo
