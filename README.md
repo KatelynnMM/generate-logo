@@ -42,3 +42,7 @@ then follow the prompts answering all the questions an a logo will be generated 
 When checking my commits you'll notice that they are lacking, and one says "large see README".  I had an issue with my gitignore file that I could not figure out, and knew if I pushed I would send all my node-modules and package-lock.json to Github. So i carried on with the rest of the challenge until I could address it Monday. Turns out I was simply missing the "dot" for the file (rolling my eyes at myself). By that time the bulk of the work was done hense the one rather large commit.
 
 ### Links
+
+![Alt text](<examples/logo copy 4.svg>)
+
+https://drive.google.com/file/d/1gfWH6NzcM2fryrD7aewOUZDE0fP5sHYV/view
